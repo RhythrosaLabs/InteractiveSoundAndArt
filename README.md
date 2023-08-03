@@ -4,7 +4,7 @@ Welcome to "Trinkets", an interactive portfolio that invites you to explore a wo
 
 Play here:
 
-interactivesoundandart.com
+https://interactivesoundandart.com
 
 https://noodlebake.itch.io/trinkets
 
