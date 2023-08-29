@@ -2,11 +2,11 @@ Welcome to "Trinkets", an interactive portfolio that invites you to explore a wo
 
 ~
 
-Play in your browser:
-https://interactivesoundandart.com
 
 Download for Mac:
 https://noodlebake.itch.io/trinkets 
+
+Coming soon for browser.
 
 ~
 
