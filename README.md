@@ -25,3 +25,11 @@ Controls:
 -mouse/trackpad to look
 
 -space bar to jump.
+
+## 💛 Support
+
+If this project is useful to you, consider supporting development:
+
+👉 [Donate via PayPal](https://paypal.me/noodlebake) — @noodlebake
+
+🌐 [Portfolio: rhythrosalabs.github.io](https://rhythrosalabs.github.io) (more apps, music and sound design)
